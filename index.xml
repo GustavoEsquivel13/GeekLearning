@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GeekLearning | Gustavo Personal Blog</title>
+    <link>https://gustavoesquivel13.github.io/GeekLearning/</link>
+    <description>Recent content on GeekLearning | Gustavo Personal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Oct 2021 20:10:25 +0600</lastBuildDate><atom:link href="https://gustavoesquivel13.github.io/GeekLearning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Porest</title>
+      <link>https://gustavoesquivel13.github.io/GeekLearning/proyects/</link>
+      <pubDate>Sun, 03 Oct 2021 17:31:12 -0500</pubDate>
+      
+      <guid>https://gustavoesquivel13.github.io/GeekLearning/proyects/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>¿nuevo post?</title>
+      <link>https://gustavoesquivel13.github.io/GeekLearning/blog/post-1/</link>
+      <pubDate>Sun, 03 Oct 2021 20:10:25 +0600</pubDate>
+      
+      <guid>https://gustavoesquivel13.github.io/GeekLearning/blog/post-1/</guid>
+      <description>Crear valor a través del análisis de datos se ha vuelto una práctica común, en un entorno altamente tecnológico, conocer el poder que los datos proporcionan puede cambiar la forma en que vivimos, trabajamos y que nos relacionamos.</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s, Talk About You</title>
+      <link>https://gustavoesquivel13.github.io/GeekLearning/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gustavoesquivel13.github.io/GeekLearning/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://gustavoesquivel13.github.io/GeekLearning/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gustavoesquivel13.github.io/GeekLearning/privacy-policy/</guid>
+      <description>Privacy Policy Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi amet, ultrices scelerisue cras. Tincidunt hendrerit egestas venenatis risus sit nunc.</description>
+    </item>
+    
+    <item>
+      <title>Search Result</title>
+      <link>https://gustavoesquivel13.github.io/GeekLearning/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gustavoesquivel13.github.io/GeekLearning/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sobre mi</title>
+      <link>https://gustavoesquivel13.github.io/GeekLearning/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gustavoesquivel13.github.io/GeekLearning/about/</guid>
+      <description>Soy un Economista apasionado por el análisis de datos.</description>
+    </item>
+    
+  </channel>
+</rss>
